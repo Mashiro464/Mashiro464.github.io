@@ -1,6 +1,6 @@
 ## **CURRICULUM**
 
-[Image](gato.jpg)
+![Image](gato.jpg)
 
 ### Perfil Profesional
 
