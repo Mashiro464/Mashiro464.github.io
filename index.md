@@ -1,5 +1,7 @@
 ## **CURRICULUM**
 
+https://raw.githubusercontent.com/Mashiro464/Mashiro464/main/gato.jpg
+
 ### Perfil Profesional
 
 
