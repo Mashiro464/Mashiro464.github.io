@@ -13,7 +13,7 @@
 2019 4 ESO
 
 ### Idiomas
--Catalan Nativo
+*Catalan Nativo
 -Español Nativp
 -Ingles C2
 -Frances 
