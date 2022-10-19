@@ -2,20 +2,24 @@
 
 ![Image](gato.jpg)
 
-### Perfil Profesional
+### __Perfil Profesional__
 
 
-### Historial Laboral
+### __Historial Laboral__
 - 2018-2019 
 - 2019-2020 
 - 2020-2021 RE7systems
 - 2021-2022 RE7systems
 
-### Formación
+### __Formación__
 2019 4 ESO
 
-### Idiomas
+### __Idiomas__
 - Catalan Nativo
-- Español Nativp
+- Español Nativo
 - Ingles C2
 - Frances 
+
+### __Aptitudes__
+
+##56a8a0
