@@ -1,2 +1,2 @@
-##CURRICULUM
-
+## Header 1
+CURRICULUM
