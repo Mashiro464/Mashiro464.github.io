@@ -20,6 +20,7 @@
 - Ingles C2
 - Frances 
 
-### __Aptitudes__
+### Contacto
 
-'#56a8a0'
+- 789159367
+- ejemplo@gmail.com
